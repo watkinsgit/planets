@@ -1,1 +1,2 @@
-cold and dry, but my favorite color.
+Cold and dry, but my favorite color.
+Hello LAMP world
